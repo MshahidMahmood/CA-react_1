@@ -1,0 +1,48 @@
+export const users = [
+    {
+      username: "ShahidMoody",
+      firstName: "Shahid",
+      lastName: "Mahmood",
+      school: "DSSE",
+      email: "mm06600@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/200/300",
+      classLevel: "Junior",
+    },
+    {
+      username: "MSattar",
+      firstName: "Musab",
+      lastName: "Sattar",
+      school: "DSSE",
+      email: "ms06651@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/200/300",
+      classLevel: "Freshmen",
+    },
+    {
+      username: "Chakera",
+      firstName: "Ali Asghar",
+      lastName: "Yousuf",
+      school: "Habib University, Karachi",
+      email: "ay06251@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/200/300",
+      classLevel: "Freshmen",
+    },
+    {
+      username: "AZee",
+      firstName: "Azeem",
+      lastName: "Haider",
+      school: "AHSS",
+      email: "ah06451@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/200/300",
+      classLevel: "Junior",
+    },
+    {
+      username: "Mufa",
+      firstName: "Mustafa",
+      lastName: "Sohail",
+      school: "AHSS",
+      email: "ms06261@st.habib.edu.pk",
+      profilePicture: "https://picsum.photos/200/300",
+      classLevel: "Freshmen",
+    },
+  ];
+// export default users;
